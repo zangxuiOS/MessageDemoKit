@@ -1,0 +1,16 @@
+PODS:
+  - MessageDemoKit (0.1.0)
+
+DEPENDENCIES:
+  - MessageDemoKit (from `../`)
+
+EXTERNAL SOURCES:
+  MessageDemoKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MessageDemoKit: fb828ed9c15b37ef70314f990c5744028ffe613c
+
+PODFILE CHECKSUM: c101a5d90050c458f7804ca7d3b3189a2b28ee8a
+
+COCOAPODS: 1.1.0.beta.2

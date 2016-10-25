@@ -1,0 +1,23 @@
+{
+  "name": "MessageDemoKit",
+  "version": "0.1.0",
+  "summary": "A DemoKit",
+  "description": "description",
+  "homepage": "https://github.com/zangxuiOS/MessageDemoKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Apple": "mm1073856565"
+  },
+  "source": {
+    "git": "https://github.com/zangxuiOS/MessageDemoKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "MessageDemoKit/Classes/**/*"
+}

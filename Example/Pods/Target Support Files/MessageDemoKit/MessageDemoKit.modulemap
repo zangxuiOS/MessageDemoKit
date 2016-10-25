@@ -1,0 +1,6 @@
+framework module MessageDemoKit {
+  umbrella header "MessageDemoKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
